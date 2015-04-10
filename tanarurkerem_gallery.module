@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tanarurkerem Gallery feature.
+ */
+
+include_once 'tanarurkerem_gallery.features.inc';
